@@ -1,3 +1,6 @@
 [submodule "spl-nft-q326"]
 	path = spl-nft-q326
 	url = https://github.com/harpalll/spl-nft-q326
+[submodule "week-2-assignment"]
+	path = week-2-assignment
+	url = https://github.com/harpalll/week-2-assignment.git
