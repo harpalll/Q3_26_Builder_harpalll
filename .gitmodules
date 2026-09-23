@@ -7,3 +7,6 @@
 [submodule "week-3-assignment"]
 	path = week-3-assignment
 	url = https://github.com/harpalll/amm_q2_26.git
+[submodule "week-4-assignment"]
+	path = week-4-assignment
+	url = https://github.com/harpalll/token22-ct-q3-26
