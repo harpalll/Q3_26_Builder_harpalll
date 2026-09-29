@@ -1,4 +1,4 @@
-[submodule "spl-nft-q326"]
+[submodule "week-1-assignment"]
 	path = spl-nft-q326
 	url = https://github.com/harpalll/spl-nft-q326
 [submodule "week-2-assignment"]
@@ -10,6 +10,6 @@
 [submodule "week-4-assignment"]
 	path = week-4-assignment
 	url = https://github.com/harpalll/token22-ct-q3-26
-[submodule "anchor-core-staking"]
+[submodule "week-5-assignment"]
 	path = anchor-core-staking
 	url = https://github.com/harpalll/anchor-core-staking
