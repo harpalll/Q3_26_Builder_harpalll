@@ -10,3 +10,6 @@
 [submodule "week-4-assignment"]
 	path = week-4-assignment
 	url = https://github.com/harpalll/token22-ct-q3-26
+[submodule "anchor-core-staking"]
+	path = anchor-core-staking
+	url = https://github.com/harpalll/anchor-core-staking
